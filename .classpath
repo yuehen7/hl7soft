@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="jh.jar"/>
+	<classpathentry exported="true" kind="lib" path="jide-action.jar"/>
+	<classpathentry exported="true" kind="lib" path="jide-common.jar"/>
+	<classpathentry exported="true" kind="lib" path="jide-components.jar"/>
+	<classpathentry exported="true" kind="lib" path="jide-dialogs.jar"/>
+	<classpathentry exported="true" kind="lib" path="jide-dock.jar"/>
+	<classpathentry exported="true" kind="lib" path="jide-grids.jar"/>
+	<classpathentry exported="true" kind="lib" path="jxl.jar"/>
+	<classpathentry exported="true" kind="lib" path="nanoxml-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="RXTXcomm.jar"/>
+	<classpathentry exported="true" kind="lib" path="jaxrpc.jar"/>
+	<classpathentry exported="true" kind="lib" path="jsr173_1.0_api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="hl7v2.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
